@@ -22,8 +22,7 @@ keywords: key1, key2, key3
 ---
 
 ![HomePod 汇集了多项 Apple 创新技术、Siri 智能和智能家居功能，为用户带来前所未有的聆听体验。](https://www.apple.com.cn/newsroom/images/product/homepod/standard/Apple-HomePod-hero-230118_big.jpg.large_2x.jpg)
-
-加利福尼亚州，库比提诺Apple 今日宣布推出 HomePod（第二代）。这款功能强大的智能扬声器采用优美的标志性设计，为用户带来新一代声学体验。HomePod 汇集了多项 Apple 创新技术与 Siri 智能，提供先进计算音频技术，支持播放沉浸式空间音频曲目，呈现前所未有的聆听体验。HomePod 带来管理日常任务、控制智能家居的便利新方式，用户可以使用 Siri 创建智能家居自动化功能，在家中触发烟雾或一氧化碳警报时获得通知
+智能家居的便利新方式，用户可以使用 Siri 创建智能家居自动化功能，在家中触发烟雾或一氧化碳警报时获得通知
 
 > 新款 HomePod 从今日起可在线或通过 Apple Store app 订购，2 月 3 日（周五）起正式发售。
 
