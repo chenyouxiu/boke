@@ -9,7 +9,7 @@ cover:
     square: 'https://pic.lookcos.cn/i/usr/uploads/2023/02/1277661091.png'
     alt: 'cover'
 tags: ["源码研究", "标准库", "golang", "slice"]
-theme: 'dark'
+theme: 'light'
 featured: false
 ---
 
